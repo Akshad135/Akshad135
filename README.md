@@ -1,4 +1,14 @@
-### Hi there 👋
+# Welcome to my Github!
+
+👋 Hello everyone, Akshad (Darkie) this side. I am a computer science student doing his graduation in AiMl.
+📧 Mail : [darkie@rilp-bot.tech](mailto:darkie@rilp-bot.tech)
+
+## Organization
+[![RILP BOT](https://avatars.githubusercontent.com/u/73837708?s=200&v=4)](https://github.com/RILPBOT)
+
+## Discord
+[![Discord Presence](https://lanyard.cnrad.dev/api/853550854162743296?idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/853550854162743296)
+
 
 <!--
 **DARKLORD513/DARKLORD513** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +24,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
