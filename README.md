@@ -7,9 +7,11 @@
 [![RILP BOT](https://avatars.githubusercontent.com/u/73837708?s=200&v=4)](https://github.com/RILPBOT)
 
 ## Discord
+<!--https://lanyard.cnrad.dev/-->
 [![Discord Presence](https://lanyard.cnrad.dev/api/853550854162743296?idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/853550854162743296)
 
 ## Things I know or learning
+<!--https://github.com/Ileriayo/markdown-badges-->
 ### Databses
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ### Frameworks
