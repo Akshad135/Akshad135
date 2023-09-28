@@ -1,6 +1,6 @@
 # Welcome to my Github!
 
-👋 Hello everyone, Akshad (Darkie) this side. I am a computer science student doing his graduation in AiMl. <br/>
+👋 Hello everyone, Akshad (Darkie) this side. I am a computer science student doing his graduation in AIML. <br/>
 📧 Mail : [darkie@rilp-bot.tech](mailto:darkie@rilp-bot.tech)
 
 ## Organization
