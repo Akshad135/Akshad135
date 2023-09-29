@@ -6,6 +6,7 @@
 
 ## Organization
 [![RILP BOT](https://avatars.githubusercontent.com/u/73837708?s=200&v=4)](https://github.com/RILPBOT)
+[![EthoSphere](https://avatars.githubusercontent.com/u/146471660?s=400&u=04201fc133075c4286f5c316733e487249f2244a&v=4)](https://github.com/EthoSphere)
 
 ## Discord
 <!--https://lanyard.cnrad.dev/-->
