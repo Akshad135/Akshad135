@@ -1,6 +1,6 @@
 # Welcome to my Github!
 
-👋 Hello everyone, Akshad (Darkie) this side. I am a computer science student doing his graduation in AIML. <br/>
+👋 Hello everyone, Akshad (Darkie) this side. I am a computer science student completing his graduation with specialization in Artificial Intelligence and Machine Learning (AIML). <br/>
 📧 Mail : [darkie@rilp-bot.tech](mailto:darkie@rilp-bot.tech) <br/>
 🔗 Discord : [@darkie135](https://discord.com/users/853550854162743296)
 [![@darklord513](https://holopin.me/darklord513)](https://holopin.io/@darklord513)
@@ -13,9 +13,9 @@
 <!--https://lanyard.cnrad.dev/-->
 [![Discord Presence](https://lanyard.cnrad.dev/api/853550854162743296?idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/853550854162743296)
 
-## Things I know or learning
+## Things I know or am learning
 <!--https://github.com/Ileriayo/markdown-badges-->
-### Databses
+### Databases
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ### Frameworks
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
