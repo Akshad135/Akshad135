@@ -3,7 +3,6 @@
 👋 Hello everyone, Akshad (Darkie) this side. I am a computer science student completing his graduation with specialization in Artificial Intelligence and Machine Learning (AIML). <br/>
 📧 Mail : [darkie@rilp-bot.tech](mailto:darkie@rilp-bot.tech) <br/>
 🔗 Discord : [@darkie135](https://discord.com/users/853550854162743296)
-[![@darklord513](https://holopin.me/darklord513)](https://holopin.io/@darklord513)
 
 ## Organization
 [![RILP BOT](https://avatars.githubusercontent.com/u/73837708?s=200&v=4)](https://github.com/RILPBOT)
