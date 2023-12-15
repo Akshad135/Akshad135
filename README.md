@@ -1,7 +1,7 @@
 # Welcome to my Github!
 
 👋 Hello everyone, Akshad (Darkie) this side. I am a computer science student completing his graduation with specialization in Artificial Intelligence and Machine Learning (AIML). <br/>
-📧 Mail : [darkie@rilp-bot.tech](mailto:darkie@rilp-bot.tech) <br/>
+📧 Mail : [darkie@rilpbot.xyz](mailto:darkie@rilpbot.xyz) <br/>
 🔗 Discord : [@darkie135](https://discord.com/users/853550854162743296)
 
 ## Organization
