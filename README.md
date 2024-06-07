@@ -5,6 +5,7 @@
 
 ## Organization
 [![RILP BOT](https://avatars.githubusercontent.com/u/73837708?s=200&v=4)](https://github.com/RILPBOT)
+[![Ai Club](https://avatars.githubusercontent.com/u/73837708?s=200&v=4)](https://github.com/aiclubvitbhopal)
 
 ## Discord
 <!--https://lanyard.cnrad.dev/-->
