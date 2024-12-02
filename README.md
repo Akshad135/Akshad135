@@ -10,7 +10,7 @@
 
 ## Discord
 <!--https://lanyard.cnrad.dev/-->
-[![Discord Presence](https://lanyard.cnrad.dev/api/853550854162743296?idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/853550854162743296)
+[![Discord Presence](https://lanyard.cnrad.dev/api/853550854162743296)](https://discord.com/users/853550854162743296)
 
 ## Things I know or am learning
 <!--https://github.com/Ileriayo/markdown-badges-->
