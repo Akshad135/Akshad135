@@ -4,8 +4,6 @@
 
 ## Organization
 [![RILP BOT](https://avatars.githubusercontent.com/u/73837708?s=200&v=4)](https://github.com/RILPBOT)
-[![Ai Club](https://avatars.githubusercontent.com/aiclubvitbhopal?s=200&v=4)](https://github.com/aiclubvitbhopal)
-[![DSC Club](https://avatars.githubusercontent.com/cdsvitbhopal?s=200&v=4)](https://github.com/cdsvitbhopal)
 
 ## Discord
 <!--https://lanyard.cnrad.dev/-->
