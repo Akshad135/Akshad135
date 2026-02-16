@@ -1,6 +1,7 @@
 # Hi, I'm Akshad. I teach rocks how to think. 
 
-I'm an Undergrad specializing in **AI & Machine Learning**.  
+Undergrad specializing in so called **AI & Machine Learning**.  
+GenAI Tech Consultant at EY.
 Most of my time is spent architecting "Agentic" systems in hopes that one day they will finish my assignments for me.
 
 ---
