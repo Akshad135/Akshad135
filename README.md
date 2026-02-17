@@ -7,7 +7,7 @@ Most of my time is spent architecting "Agentic" systems in hopes that one day th
 ---
 
 ### Status
-[![Discord Presence](https://lanyard.cnrad.dev/api/853550854162743296?idleMessage=Training%20Models%20(Sleeping)%20%F0%9F%98%B4)](https://discord.com/users/853550854162743296)
+[<img src="https://lanyard.cnrad.dev/api/853550854162743296?idleMessage=Training%20Models%20(Sleeping)%20%F0%9F%98%B4" alt="Discord Presence" width="300"/>](https://discord.com/users/853550854162743296)
 
 ---
 
@@ -29,6 +29,7 @@ I don't like doing things manually, so I spend weeks building AI agents to do th
 | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) | ![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) | ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) |
 | ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square) | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) | ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) |
 | ![Qdrant](https://img.shields.io/badge/Qdrant-DH2092?style=flat-square) | ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi) | |
+| ![Google ADK](https://img.shields.io/badge/Google_ADK-4285F4?style=flat-square&logo=google&logoColor=white) | | |
 
 ---
 
