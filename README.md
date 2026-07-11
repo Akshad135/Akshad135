@@ -12,12 +12,7 @@ Most of my time is spent architecting "Agentic" systems in hopes that one day th
 ---
 
 ### 👾 The Art of Over-Engineering
-I don't like doing things manually, so I spend weeks building AI agents to do them for me.
-
-* **I enjoy automated arguments:** I built a **"Drafter-Critic" workflow** where two AI agents fight over legal contracts until one of them wins. It's like reality TV, but with more JSON and less drama.
-* **I judge efficiently:** I engineered a **Resume Screener** to rank candidates against job descriptions. Yes, I am fully aware that an AI might be reading *my* resume right now.
-* **I fear "drift":** I built an entire **MLOps pipeline (Dilbert-o-Matic)** just to avoid the shame of a model degrading in production. 
-
+#### I don't like doing things manually, so I spend weeks building AI agents to do them for me ;-;
 ---
 
 ### 🛠️ The Tech Stack 
